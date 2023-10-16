@@ -40,7 +40,9 @@ main {
 }
 
 .details section.with-code {
-    padding: 0;
+    padding: 25px;
+    border-radius: 20px;
+    margin-top: 25px;
 }
 
 
